@@ -6,8 +6,7 @@ Providing reliable technology support and network infrastructure for businesses 
 
 ---
 
-## What We Do  
-Invest in engineers who bring your business to the cutting edge.  
+## What We Do   
 We understand that tech issues can feel like a headache — that’s where we come in.  
 We’re your **Tech Liaisons** for:
 
